@@ -8,6 +8,7 @@ public class Fruit_128 {
 	String get_color()
 	{
 	return color;
+	
 	}
 
 }

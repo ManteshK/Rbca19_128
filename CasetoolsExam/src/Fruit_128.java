@@ -5,5 +5,9 @@ public class Fruit_128 {
 	{
 	this.color=color;
 	}
+	String get_color()
+	{
+	return color;
+	}
 
 }

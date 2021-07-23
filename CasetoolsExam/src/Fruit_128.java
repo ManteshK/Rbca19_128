@@ -1,13 +1,14 @@
 
 public class Fruit_128 {
-	String color;
+	String colors;
 	void Fruit(String color)
 	{
-	this.color=color;
+	this.colors=color;
 	}
 	String get_color()
 	{
-	return color;
+	return colors;
+	
 	}
 
 }
